@@ -1,4 +1,4 @@
 #!/bin/bash
 
-mkdir mydirectory
-touch mydirectory/myfile.txt
+mkdir /tmp/mydirectory
+touch /tmp/mydirectory/myfile.txt
